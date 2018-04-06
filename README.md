@@ -34,23 +34,23 @@
 [Sandbox](./MD/Sandbox.md) 미완성  
 [Scheme](./MD/Scheme.md)   
 [MetaType](./MD/MetaType.md) 이해못함   
-[ErrorHandling](./Class/ErrorHandling/ErrorHandling.xcodeproj)
+[ErrorHandling](./Class/ErrorHandling/ErrorHandling.xcodeproj) 프로젝트파일 수정
 [ErrorHandling.ppt](./ppt/ErrorHandling.key)   
-[enumerated,map,filter,reduce](./Class/highOrderTest.playground)        
-[GetSet,didsetwillset](./Class/GetSet/GetSet.xcodeproj)    
+[enumerated,map,filter,reduce](./Class/highOrderTest.playground)     플레이그라운드 수정
+[GetSet,didsetwillset](./Class/GetSet/GetSet.xcodeproj)    프로젝트파일 수정
 [GCD](./MD/GCD.md)   
 [TemplateSet](./MD/TemplateSet.md)   
-[Codable](./Class/codableAndJson/CodableExample.playground)   
-[Json](./Class/codableAndJson/JSONSerialization.playground)
+[Codable](./Class/codableAndJson/CodableExample.playground)   플레이그라운드 수정
+[Json](./Class/codableAndJson/JSONSerialization.playground) 플레이그라운드 수정
 
 ## 참고하기
 [에러 검색으로 쉽게 찾기](./ppt/Error.pdf)   
-[prepare와 unwind로 데이터 사용](./Class/Unwind/Unwind.xcodeproj)     
+[prepare와 unwind로 데이터 사용](./Class/Unwind/Unwind.xcodeproj)    프로젝트파일 수정
 [버튼 유지,초기화시키기](./img/button.png)   
-[FireBase사용법](./Class/firebase/FireBaseTest2/FireBaseTest2.xcworkspace)  
-[Text입력 바로 출력하기,keyboard](./Class/SlackAddWorkspacesUI_Starter/SlackAddWorkspacesUI.xcodeproj)   
-[scheme받는곳](./Class/Scheme/Inscheme/ClassTest.xcodeproj) [scheme보내는곳,다른것도 보낼 수 있음](./Class/Scheme/URLscheme/URLScheme.xcodeproj)   
-[Json변환해서 받기 연습](./Class/JsonTest/JsonTest.xcodeproj)   
-[디바이스정보보기](./Class/UIDeviceExample/UIDeviceExample.xcodeproj)   
+[FireBase사용법](./Class/firebase/FireBaseTest2/FireBaseTest2.xcworkspace)   
+[Text입력 바로 출력하기,keyboard](./Class/SlackAddWorkspacesUI_Starter/SlackAddWorkspacesUI.xcodeproj) 프로젝트파일 수정   
+[scheme받는곳](./Class/Scheme/Inscheme/ClassTest.xcodeproj) [scheme보내는곳,다른것도 보낼 수 있음](./Class/Scheme/URLscheme/URLScheme.xcodeproj)   프로젝트파일 수정
+[Json변환해서 받기 연습](./Class/JsonTest/JsonTest.xcodeproj) 프로젝트파일 수정   
+[디바이스정보보기](./Class/UIDeviceExample/UIDeviceExample.xcodeproj)   프로젝트파일 수정
 [pod쓰기](./Class/podinstall/podwriting.png)  [pod만들기](./Class/podinstall/podmake.png)   
-[kakao로그인](./Class/kakaoLogin/test/test.xcodeproj)      
+[kakao로그인](./Class/kakaoLogin/test/test.xcodeproj)      프로젝트파일 수정
