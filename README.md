@@ -33,7 +33,7 @@
 [TapBar](./MD/TapBar.md)   
 [Sandbox](./MD/Sandbox.md) 미완성  
 [Scheme](./MD/Scheme.md)   
-[MetaType](./MD/MetaType.md) 이해못함   
+[MetaType](./MD/MetaType.md)   다시보기
 [ErrorHandling](./Class/ErrorHandling/ErrorHandling.xcodeproj) 프로젝트파일 수정
 [ErrorHandling.ppt](./ppt/ErrorHandling.key)   
 [enumerated,map,filter,reduce](./Class/highOrderTest.playground)     플레이그라운드 수정
