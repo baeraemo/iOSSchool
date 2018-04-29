@@ -3,8 +3,6 @@
 >Tel: 01041238059   
 >E-Mail: btw0118@gmail.com     
 
-test
-
 ## Swift Class
 [MarkDown 사용법](./MD/MarkdownUse.md)   
 [while과 for](./MD/WhileAndFor.md)   
@@ -54,5 +52,5 @@ test
 [scheme받는곳](./Class/Scheme/Inscheme/ClassTest.xcodeproj) [scheme보내는곳,다른것도 보낼 수 있음](./Class/Scheme/URLscheme/URLScheme.xcodeproj)   프로젝트파일 수정
 [Json변환해서 받기 연습](./Class/JsonTest/JsonTest.xcodeproj) 프로젝트파일 수정   
 [디바이스정보보기](./Class/UIDeviceExample/UIDeviceExample.xcodeproj)   프로젝트파일 수정
-[pod쓰기](./Class/podinstall/podwriting.png)  [pod만들기](./Class/podinstall/podmake.png)   
+[pod쓰기](./Class/podinstall/podwriting.png)  [pod만들기](./Class/podinstall/podmake.png)   <- 내용 추가
 [kakao로그인](./Class/kakaoLogin/test/test.xcodeproj)      프로젝트파일 수정
