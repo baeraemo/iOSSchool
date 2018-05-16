@@ -59,4 +59,4 @@
 [터미널 커스텀 ] https://nesoy.github.io/articles/2017-03/ZSH
 [json쉽게보기] https://jsonlint.com/ 
 [keychain정보] http://kka7.tistory.com/93
-[keychainwrapper사용 ]https://translate.googleusercontent.com/translate_c?depth=1&hl=ko&prev=search&rurl=translate.google.co.kr&sl=en&sp=nmt4&u=https://github.com/jrendel/SwiftKeychainWrapper&xid=17259,15700023,15700124,15700149,15700168,15700173,15700186,15700189,15700201&usg=ALkJrhjv4fwYvMBC8yL9DDxmCQXlzr1MIA 
+[keychainwrapper]https://translate.googleusercontent.com/translate_c?depth=1&hl=ko&prev=search&rurl=translate.google.co.kr&sl=en&sp=nmt4&u=https://github.com/jrendel/SwiftKeychainWrapper&xid=17259,15700023,15700124,15700149,15700168,15700173,15700186,15700189,15700201&usg=ALkJrhjv4fwYvMBC8yL9DDxmCQXlzr1MIA 
